@@ -10,17 +10,16 @@ Modern e-commerce website for homemade food products such as ready-to-cook veget
 
 ## My Contribution
 
-- Storefront design and implementation
+- AI-assisted custom development workflow
 - Product/category presentation
 - Responsive user experience
-- Ordering-focused layout
+- Online ordering-focused layout
 
 ## Technologies / Focus
 
-- E-Commerce
+- AI-Assisted Custom Development
 - Responsive Design
-- Product Presentation
-- Category UX
+- Online Ordering
 
 ## Source Code
 
